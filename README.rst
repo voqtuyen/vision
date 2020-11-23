@@ -6,8 +6,11 @@ The torchvision package consists of popular datasets, model architectures, and c
 
 Requirements
 ============
-torchvision==0.5.0
-torch==1.4.0
+
+.. code:: bash
+
+    torchvision==0.5.0
+    torch==1.4.0
 
 Installation
 ============
