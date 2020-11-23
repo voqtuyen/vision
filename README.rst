@@ -1,7 +1,7 @@
 torchvision
 ===========
 
-The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.
+Cloned verion of torchvision. Add 'register_custom_op_symbolic' for deform_conv2d
 
 
 Requirements
